@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgi:home|Door43 (mgi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgi|d43-mgi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgi/archive/master.zip|d43-mgi.zip]]
+
+**Recent Changes**
+{{changes>ns = mgi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgi|Ethnologue data]]
+
